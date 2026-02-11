@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Charm",
+  "base_artist": "Natsudaidai",
+  "createdAt": "2026-02-11T10:44:37.092027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/01_Good_Luck_Charm_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lucky Charm",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/02_Lucky_Charm_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_Good_Luck_Charm_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fatal Charm",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/04_Fatal_Charm_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lucky Charm",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/05_Lucky_Charm_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Charm",
+      "artist": "Body Language",
+      "has_synced": false,
+      "path": "select/06_Charm_Body_Language.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I've Underestimated My Charm (Again)",
+      "artist": "Black Kids",
+      "has_synced": true,
+      "path": "select/07_I've_Underestimated_My_Charm_(Again)_Black_Kids.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Liar (Third Time Charm)",
+      "artist": "Gato de Rua",
+      "has_synced": true,
+      "path": "select/08_Liar_(Third_Time_Charm)_Gato_de_Rua.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Charm Alarm",
+      "artist": "Deborah Harry",
+      "has_synced": false,
+      "path": "select/09_Charm_Alarm_Deborah_Harry.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Charm Redux",
+      "artist": "Deborah Harry",
+      "has_synced": false,
+      "path": "select/10_Charm_Redux_Deborah_Harry.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strange Charm",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/11_Strange_Charm_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Charm of the Seer - live",
+      "artist": "Stream of Passion",
+      "has_synced": false,
+      "path": "select/12_The_Charm_of_the_Seer_-_live_Stream_of_Passion.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Charm Of The Seer",
+      "artist": "Stream Of Passion",
+      "has_synced": false,
+      "path": "select/13_The_Charm_Of_The_Seer_Stream_Of_Passion.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Charm of the Seer",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/14_The_Charm_of_the_Seer_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Charm Assault",
+      "artist": "Ride",
+      "has_synced": true,
+      "path": "select/15_Charm_Assault_Ride.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nina's Charm",
+      "artist": "Romare",
+      "has_synced": false,
+      "path": "select/16_Nina's_Charm_Romare.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Charm",
+      "artist": "Natsudaidai",
+      "has_synced": false,
+      "path": "select/pl_01_Charm_Natsudaidai.txt"
+    }
+  ]
+}
